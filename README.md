@@ -2,7 +2,7 @@
 
 A interactive web application built with Streamlit that displays real-time cryptocurrency price charts, metrics, and trading volume data.
 
-
+(![Dashboard Screenshot](https://github.com/your-username/your-repo-name/raw/main/images/dashboard-screenshot.png))
 
 ## Features
 - **Multiple Cryptocurrencies**: Track Bitcoin, Ethereum, Dogecoin, Tron, Tether, Shiba, and Pepe
