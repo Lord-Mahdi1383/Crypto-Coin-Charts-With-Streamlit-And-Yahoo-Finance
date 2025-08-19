@@ -75,7 +75,7 @@ time_period = st.sidebar.selectbox(
 )
 
 # if user selects predefined add another select box name 'Time Period' 
-if time_period == 'predefined Period':
+if time_period == 'Predefined Period':
     selected_period = st.sidebar.selectbox(
         'Time Period',
         options=list(DAYS_MAP.keys()),
